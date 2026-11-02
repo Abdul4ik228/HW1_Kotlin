@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="item_even_red">#EF5350</color>
+    <color name="item_odd_blue">#42A5F5</color>
+</resources>
